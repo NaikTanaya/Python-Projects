@@ -18,3 +18,5 @@ I have used the VS Code IDE in this video. Feel free to use any other IDE you ar
 4.	Then it is also capable of telling jokes as well as taking a screenshot. Also it can search for a location on google maps. 
 5.	Developed code logic for opening VS Code or any other application.
 6.	At last, we added functionality to send emails.
+
+![bb](https://user-images.githubusercontent.com/78205020/183981622-1caa3db5-3263-4fc2-84e1-9d5f928464dc.jpg)
