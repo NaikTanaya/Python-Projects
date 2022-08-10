@@ -19,4 +19,6 @@ I have used the VS Code IDE in this video. Feel free to use any other IDE you ar
 5.	Developed code logic for opening VS Code or any other application.
 6.	At last, we added functionality to send emails.
 
+![image](https://user-images.githubusercontent.com/78205020/183982424-47e767be-cae2-4564-8c55-fc9eb6a0f663.png)
+
 
