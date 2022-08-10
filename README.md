@@ -4,8 +4,11 @@ This repository is about various python projects.
 pip install pyjokes
 
 pip install pyautogui
+
 pip install wikipedia
+
 pip install SpeechRecognition
+
 pip install pyttsx3
 # Project details are as below
 1. Voice Assistant
