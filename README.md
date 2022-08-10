@@ -2,6 +2,7 @@
 This repository is about various python projects.
 # Installation
 pip install pyjokes
+
 pip install pyautogui
 pip install wikipedia
 pip install SpeechRecognition
